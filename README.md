@@ -1,5 +1,6 @@
 # Fedora-for-For-ARM-Chromebook
 This will install Fedora on any ARM Chromebook, such as the Samsung Chromebook Series 3
+YOU MUST MAKE SURE THAT YOU HAVE A MOUSE TO USE BECAUSE THE TRACKPAD DOESN'T WORK!!!!
 
 1) Make sure you're in Dev Mode
 
