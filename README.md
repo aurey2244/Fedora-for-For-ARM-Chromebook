@@ -9,12 +9,10 @@ Download from this link https://drive.google.com/file/d/0B2IvRFYpm8zidEVGV0pGcml
 
 2)Open terminal
 
-3)Download Fedora.sh
+3)cd ~/Downloads in terminal
 
-4)cd ~/Downloads in terminal
+4) run the scrpit using "sudo bash Fedora.sh"
 
-5) run the scrpit using "sudo bash Fedora.sh"
+5)let the Script do its thang while you get what you want out of the options
 
-6)let the Script do its thang while you get what you want out of the options
-
-You can install Soas, Xfce, Mate, Kde, Minimal(no gui), and Lxde
+            You can install Soas, Xfce, Mate, Kde, Minimal(no gui), and Lxde
